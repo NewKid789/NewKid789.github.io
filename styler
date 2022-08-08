@@ -1,6 +1,6 @@
 .homebody {
-background-color:black;
+background-color: black;
 }
-.text {
-color:red;
+.texts {
+color: red;
 }
